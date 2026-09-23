@@ -1,4 +1,4 @@
-# Auto Script VPN
+# ZAIDI STORE SERVER VPS
 
 ## Docs Index
 
@@ -37,7 +37,7 @@ apt update ; apt install curl wget tmux gnupg screen perl -y
 ```
 
 ### Tahap 2
-- Buy DM [Rerechan02](https://t.me/Rerechan02)
+- Buy DM [Rerechan02](https://t.me/ZAIDIOFFCIEL_FREE)
 
 ## System Configuration
 
@@ -203,7 +203,7 @@ For comprehensive documentation and details about the API, please visit our GitH
 ---
 | Deskripsi (ID) | Description (EN) |
 |----------------|------------------|
-| Proses pembelian dilakukan melalui [Rerechan02](https://t.me/Rerechan02) | Purchase is made through [Rerechan02](https://t.me/Rerechan02) |
+| Proses pembelian dilakukan melalui [Rerechan02](@Zaidi_vps) | Purchase is made through [Rerechan02](https://t.me/ZAIDIOFFCIEL_FREE) |
 | Pembelian pertama: Rp. 15.000 / $1 per IP [30 Hari Aktif] | First purchase: Rp. 15,000 / $1 per IP [30 Days Active] |
 | Perpanjangan: Rp. 10.000 / IP [Setiap 30 Hari Aktif] | Renewal: Rp. 10,000 / IP [Every 30 Days Active] |
 | Proses resolv IP sekitar 5–10 menit | IP resolving takes around 5–10 minutes |
@@ -217,5 +217,5 @@ For comprehensive documentation and details about the API, please visit our GitH
 ## Support
 
 Please join the following Telegram groups and channels to get information about Patches or things related to improving script functions.
-- Telegram : [Rerechan02](https://t.me/Rerechan02)
-- Telegram Channel : [FN Project](https://t.me/fn_project)
+- Telegram : [Rerechan02](@Zaidi_vps)
+- Telegram Channel : [FN Project](https://t.me/ZAIDIOFFCIEL_FREE)
