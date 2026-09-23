@@ -37,7 +37,7 @@ apt update ; apt install curl wget tmux gnupg screen perl -y
 ```
 
 ### Tahap 2
-- Buy DM [Rerechan02](https://t.me/ZAIDIOFFCIEL_FREE)
+- Buy DM [https://t.me/Zaidi_vps](https://t.me/Zaidi_vps)
 
 ## System Configuration
 
